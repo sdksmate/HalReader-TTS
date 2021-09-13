@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">  
+  <assemblyIdentity name="Zabaware,.Inc..ZabaReader" processorArchitecture="X86" type="win32" version="2.0.0.10" />
+  <Compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <Application>
+        <SupportedOS ID="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+    </Application>
+  </Compatibility>  
+  <file name="comdlg32.ocx">
+    <typelib tlbid="{F9043C88-F6F2-101A-A3C9-08002B2F49FB}" version="1.2" flags="control" helpdir="" />
+    <comClass clsid="{F9043C85-F6F2-101A-A3C9-08002B2F49FB}" tlbid="{F9043C88-F6F2-101A-A3C9-08002B2F49FB}" threadingModel="Apartment" progid="MSComDlg.CommonDialog.1" miscStatusIcon="recomposeonresize,onlyiconic,cantlinkinside,insideout,activatewhenvisible,invisibleatruntime,setclientsitefirst" description="Microsoft Common Dialog Control 6.0 (SP6)" />
+  </file>
+  <file name="richtx32.ocx">
+    <typelib tlbid="{3B7C8863-D78F-101B-B9B5-04021C009402}" version="1.2" flags="control" helpdir="" />
+    <comClass clsid="{3B7C8860-D78F-101B-B9B5-04021C009402}" tlbid="{3B7C8863-D78F-101B-B9B5-04021C009402}" threadingModel="Apartment" progid="RICHTEXT.RichtextCtrl.1" miscStatusIcon="recomposeonresize,cantlinkinside,insideout,activatewhenvisible,setclientsitefirst" description="Microsoft Rich Textbox Control 6.0 (SP6)" />
+  </file>
+  <file name="XSpeechKit7.dll">
+    <typelib tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" version="7.0" flags="" helpdir="" />
+    <comClass description="XChantAudio Class" clsid="{06F0D3C9-0E20-41DC-9067-03CCE41FD489}" threadingModel="Apartment" progid="XSpeechKit.XChantAudio" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantSR Class" clsid="{27D5260F-74B7-4F90-ADF1-C3251AFE2265}" threadingModel="Apartment" progid="XSpeechKit.XChantSR" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantTTS Class" clsid="{0D1DFCDA-26C4-4B0D-93C2-771249EF154C}" threadingModel="Apartment" progid="XSpeechKit.XChantTTS" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAlternate Class" clsid="{B1BE2B1D-49F4-45AA-8EF0-50A2E94F2603}" threadingModel="Apartment" progid="XSpeechKit.XChantAlternate" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAudioEvent Class" clsid="{A7F9E46A-1770-4E04-8C27-22C70E07F41E}" threadingModel="Apartment" progid="XSpeechKit.XChantAudioEvent" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAudioInDevice Class" clsid="{3F47F97D-E187-4AAF-863D-7E1CD8FBD551}" threadingModel="Apartment" progid="XSpeechKit.XChantAudioInDevice" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAudioMixer Class" clsid="{4536F62E-582D-4B7C-B758-A30FC5EE821C}" threadingModel="Apartment" progid="XSpeechKit.XChantAudioMixer" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAudioMixerLine Class" clsid="{0BE97B70-A502-443A-9D84-D8A2E0840A22}" threadingModel="Apartment" progid="XSpeechKit.XChantAudioMixerLine" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantAudioOutDevice Class" clsid="{BFEA7863-7FB8-4858-AF14-2CB6C7000AC6}" threadingModel="Apartment" progid="XSpeechKit.XChantAudioOutDevice" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantDictationMacro Class" clsid="{CBBE4CD9-874F-45F7-8A45-F7BA406642E9}" threadingModel="Apartment" progid="XSpeechKit.XChantDictationMacro" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantDictationTemplateField Class" clsid="{ED0826DC-7F82-4FC9-A717-42632ED6AECC}" threadingModel="Apartment" progid="XSpeechKit.XChantDictationTemplateField" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantDictationTopic Class" clsid="{749AC36B-D4CA-4353-BD91-615CF7EC36F4}" threadingModel="Apartment" progid="XSpeechKit.XChantDictationTopic" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantDomain Class" clsid="{954E600B-7C65-40B9-9664-3213FAFF681D}" threadingModel="Apartment" progid="XSpeechKit.XChantDomain" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantPhraseProperty Class" clsid="{74C3862B-D2CF-4D7F-A4C8-BEFC059C57C4}" threadingModel="Apartment" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantRule Class" clsid="{9171A804-F55B-4422-9CA8-7A2A2C22A45E}" threadingModel="Apartment" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantSpeaker Class" clsid="{DFEBCA1A-8B73-453B-AB12-E0DC3A2672E6}" threadingModel="Apartment" progid="XSpeechKit.XChantSpeaker" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantSpeakerEnrollment Class" clsid="{9E7C3B0E-EC5E-440F-808F-072BD30BD669}" threadingModel="Apartment" progid="XSpeechKit.XChantSpeakerEnrollment" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantSREngine Class" clsid="{0236CF60-7212-4D81-8CC3-D4E1A55362F6}" threadingModel="Apartment" progid="XSpeechKit.XChantSREngine" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantSREvent Class" clsid="{87583D46-13CD-4052-9720-FCD23AA7E882}" threadingModel="Apartment" progid="XSpeechKit.XChantSREvent" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantTTSEngine Class" clsid="{089D176D-E9D9-4421-9246-52285EA8939F}" threadingModel="Apartment" progid="XSpeechKit.XChantTTSEngine" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantTTSEvent Class" clsid="{B25E3F71-9D6D-4D51-B453-DDBD003E1307}" threadingModel="Apartment" progid="XSpeechKit.XChantTTSEvent" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+    <comClass description="XChantWord Class" clsid="{B298B4BD-18D4-4819-A276-DD48DF589F8F}" threadingModel="Apartment" progid="XSpeechKit.XChantWord" tlbid="{13A6798F-7EBA-4068-BBBC-92A71E03D4FC}" />
+  </file> 
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+          <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly> 

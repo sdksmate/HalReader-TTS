@@ -1,0 +1,7 @@
+Zabaware Text-to-Speech Reader 
+Version 2.0
+(c) 2014 Zabaware, Inc.
+http://www.zabaware.com
+info@zabaware.com
+
+The Zabaware Text-to-Speech Reader application will read your documents out loud in one of its many high quality voices. This can be a great tool for proof reading because hearing your text out loud helps you spot all mistakes. This program can also be used for reading e-books. Why strain your eyes trying to read a book from your monitor when your computer can simply read it out loud for you? This program will also read all standard Windows dialog box messages out loud to you. This can be a great aid for the visually impaired or for anyone who just wants messages to be read out loud. The Ultra Hal Text-to-Speech reader is also able to read the clipboard contents. With this function you can easily have it read your email and web sites that you visit. In addition to speaking text out loud, this program is able to write audio data directly to Windows WAV files. You can convert all your documents and e-books into WAV files and then burn them to audio CDs or convert them into MP3 files. You can listen to your e-books on the road with a standard CD or MP3 player! This program has several high quality voices to choose from and gives you control over speed and volume.
